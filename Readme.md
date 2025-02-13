@@ -40,4 +40,11 @@ By leveraging **Retrieval-Augmented Generation (RAG)**, the chatbot retrieves re
 Run the following command:  
 python chatbot_api.py    
 This will run FastAPI on http://127.0.0.1:8000.
+### 2️⃣ Start the Frontend (Streamlit)    
+Run the following command:   
+streamlit run chatbot_ui.py   
+This will open the chatbot UI in your browser.
+
+
+
 
