@@ -38,6 +38,6 @@ By leveraging **Retrieval-Augmented Generation (RAG)**, the chatbot retrieves re
 
 ### 1️⃣ Start the Backend (FastAPI)  
 Run the following command:  
-python chatbot_api.py
+python chatbot_api.py    
 This will run FastAPI on http://127.0.0.1:8000.
 
