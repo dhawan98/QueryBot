@@ -28,11 +28,13 @@ PyPDF & TextLoader (Document Processing)
 
 📌 Running the Project
 1️⃣ Start the Backend (FastAPI)
+
 python chatbot_api.py
 This will run FastAPI on http://127.0.0.1:8000.
 
 
 2️⃣ Start the Frontend (Streamlit)
+
 streamlit run chatbot_ui.py
 This will open the chatbot UI in your browser.
 
